@@ -1,0 +1,20 @@
+<html lang="en">
+  <head>
+
+  </head>
+  <body>
+  
+  
+  
+  
+  </body>
+  <script src="dist/sounddrop.js"></script>
+  <script>
+    var drop = new SoundDrop({
+      clientID: '2t9loNQH90kzJcsFCODdigxfp325aq4z'
+    })
+    drop.fetch('https://soundcloud.com/diracdeltas/pu3elibqww9b', function (streamURL, artist) {
+      console.log(streamURL, artist)
+    })
+  </script>
+</html>
