@@ -4,7 +4,7 @@
 
 Fetch any SoundCloud url.
 
-NPM module packaging of (diracdelta's demo)[https://github.com/diracdeltas/SoundDrop]. Full credit goes to them.
+NPM module packaging of [diracdelta's demo](https://github.com/diracdeltas/SoundDrop). Full credit goes to them.
 
 > sounds are cool please give money to artists
 
